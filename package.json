@@ -1,0 +1,32 @@
+{
+  "name": "mern_ecomm_backend",
+  "version": "1.0.0",
+  "description": "mern ecomm backend",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sumanthpweb11/mern_ecomm_backend.git"
+  },
+  "keywords": [
+    "mern",
+    "ecommerce",
+    "react",
+    "node",
+    "express"
+  ],
+  "author": "Sumanth Prabhu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sumanthpweb11/mern_ecomm_backend/issues"
+  },
+  "homepage": "https://github.com/sumanthpweb11/mern_ecomm_backend#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
